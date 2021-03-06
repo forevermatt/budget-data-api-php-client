@@ -14,6 +14,10 @@
         {
             "name": "Swagger and contributors",
             "homepage": "https://github.com/swagger-api/swagger-codegen"
+        },
+        {
+            "name": "forevermatt",
+            "homepage": "https://github.com/forevermatt"
         }
     ],
     "require": {
