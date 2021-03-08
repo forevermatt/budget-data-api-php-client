@@ -39,37 +39,8 @@ use BudgetData\ApiClient\ObjectSerializer;
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
  */
-class DefaultApiTest extends \PHPUnit_Framework_TestCase
+class DefaultApiTest extends \PHPUnit\Framework\TestCase
 {
-
-    /**
-     * Setup before running any test cases
-     */
-    public static function setUpBeforeClass()
-    {
-    }
-
-    /**
-     * Setup before running each test case
-     */
-    public function setUp()
-    {
-    }
-
-    /**
-     * Clean up after running each test case
-     */
-    public function tearDown()
-    {
-    }
-
-    /**
-     * Clean up after running all test cases
-     */
-    public static function tearDownAfterClass()
-    {
-    }
-
     /**
      * Test case for accountsGet
      *
