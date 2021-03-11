@@ -17,7 +17,7 @@ class BudgetDataApiClient
     public function __construct(string $host)
     {
         $config = new Configuration();
-        $config->setHost(host);
+        $config->setHost($host);
         $this->defaultApi = new DefaultApi(null, $config);
     }
 
