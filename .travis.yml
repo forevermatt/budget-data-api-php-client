@@ -5,4 +5,4 @@ php:
     - 7.4
     - 8.0
 before_install: "composer install"
-script: "vendor/bin/phpunit"
+script: "vendor/bin/behat"
