@@ -47,8 +47,8 @@ class BudgetDataApiClient
      * @throws \InvalidArgumentException
      * @return void
      */
-    public function accountsPost($body)
+    public function accountPost($body)
     {
-        return $this->defaultApi->accountsPost($body);
+        return $this->defaultApi->accountPost($body);
     }
 }
