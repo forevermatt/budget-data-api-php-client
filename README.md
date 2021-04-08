@@ -36,7 +36,7 @@ To run the unit tests:
 
 ```
 composer install
-./vendor/bin/phpunit
+./vendor/bin/behat .
 ```
 
 ## Getting Started
